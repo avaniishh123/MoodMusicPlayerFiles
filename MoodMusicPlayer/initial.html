@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mood Music Player</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mood Music Player</h1>
+    </header>
+    <main>
+        <label for="mood-select">Select Your Mood:</label>
+        <select id="mood-select">
+            <option value="">--Choose a mood--</option>
+            <option value="Happy">Happy</option>
+            <option value="Sad">Sad</option>
+            <option value="Relaxed">Relaxed</option>
+            <option value="Energetic">Energetic</option>
+            <option value="Romantic">Romantic</option>
+            <option value="Focused">Focused</option>
+            <option value="Mirage">Mirage Melody</option> <!-- Added option -->
+        </select>
+        <button id="play-button">Play Music</button>
+        <button id="stop-button">Stop Music</button>
+        
+        <!-- Audio Tag for Music -->
+        <audio id="audio-player" controls>
+            <source id="audio-source" src="" type="audio/mp3">
+            Your browser does not support the audio tag.
+        </audio>
+    </main>
+    <footer>
+        <p>&copy; 2024 Mood Music Player</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
