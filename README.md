@@ -41,9 +41,8 @@ Dreamland Music Player lets users select from various moods — **Happy, Sad, Re
 ---
 
 ## 🖼️ Screenshots
-![image](https://github.com/user-attachments/assets/1db61408-e52e-4cf7-a9f8-b6d816a2144c)
-![image](https://github.com/user-attachments/assets/44f935d7-be90-4932-bad9-18b25d6f88a6)
-![image](https://github.com/user-attachments/assets/7839f964-45c6-4004-adcf-1905c55bc93e)
+![image](https://github.com/user-attachments/assets/606d487b-5ad8-4c50-8b37-6d67064141bc)
+
 
 
 
